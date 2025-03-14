@@ -1,3 +1,5 @@
 .env
 test.py
-__pychache__/
+__pychache__/__pycache__/
+test.py
+.env
