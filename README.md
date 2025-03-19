@@ -3,17 +3,13 @@
 This repository contains a Flask-based chatbot application built using the Gemini API. The chatbot has two main modules:
 
 1. **Web UI (/):**
-
-- Summarizes content based on a given title.
-
-- Allows users to ask questions via a user interface.
+   - Summarizes content based on a given title.
+   - - Allows users to ask questions via a user interface.
 
 2. **GraphQL Endpoint (/graphql):**
-
-- Demonstrates backend query handling with GraphQL.
+   - Demonstrates backend query handling with GraphQL.
 
 ## Features
-
 - Content Summarization: Summarizes content using the Gemini language model.
 - Question-Answering: Answers user-provided questions by querying the Gemini API.
 - GraphQL Playground: Interactive UI to test GraphQL queries.
